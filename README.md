@@ -63,14 +63,6 @@ The app displays multiple user profile cards, each showing:
 - Reusable component structure
 ```
 
----
-
-Just replace `YOURUSERNAME` with your actual GitHub username. Paste this into your `README.md` file, save it, then run:
-```
-git add .
-git commit -m "Add README"
-git push origin main
-
 ## Author
 Eric Cashman
 AD311
